@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 import datetime
 
 # Define the URL and the headers
-url = "https://www.w3schools.com/python/"
+url = "https://ieeexplore.ieee.org/document/6978614"
 headers = {"User-Agent": "Mozilla/5.0"}
 
 # Try to send the request and get the response
